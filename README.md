@@ -1,4 +1,4 @@
-# PomodoroDesktopApplication
-I couldn't find a cool time management app, so I created one myself. <br>
-The application is in Java Swing technology. <br>
-### The downloadable file is in out\artifacts\PomodoroDesktopApplication_jar
+# MyKotlinAppCalculator
+My first project in Kotlin. <br>
+I wanted to do something simple yet interesting. <br>
+### The downloadable file is in app\build\outputs\apk\debug\app-debug.apk
